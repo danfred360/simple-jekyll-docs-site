@@ -33,9 +33,9 @@ It’s easy to focus solely on the subject of the photo, but photos that include
 Be creative.
 Some photos on Instagram are so popular that they become cliches, inspiring an entire Instagram account dedicated to repeat images. Don’t get caught up in Instagram photo trends and lose creativity. Stand out from other brands on Instagram. This will also help to establish a distinctive and memorable brand identity.
 
-[Home](./README.md)
-[Twitter Overview](./twitter-overview.md)
-[Instagram Overview](./instagram-overview.md)
-  [How to take photos for Instagram](./take-pics-for-insta.md)
-  [How to write captions for Instagram](./write-captions-for-insta.md)
-  [How the Instagram algorithm works](./algorithm-insta.md)
+- [Home](./README.md)
+- [Twitter Overview](./twitter-overview.md)
+- [Instagram Overview](./instagram-overview.md)
+  - [How to take photos for Instagram](./take-pics-for-insta.md)
+  - [How to write captions for Instagram](./write-captions-for-insta.md)
+  - [How the Instagram algorithm works](./algorithm-insta.md)

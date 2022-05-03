@@ -31,9 +31,9 @@ Like most marketing strategies, the copy in the Instagram caption is about quali
 9. Use hashtags.
 Instagram hashtags are a key way to make posts searchable, so be sure to leverage them properly. They function like keywords, as they have tracking and searching capabilities. You may have noticed brands grouping hashtags at the end of a caption or below the “More” tag to keep things looking clean. Some even add several lines of space with periods to set apart the hashtags and really tuck them away from the description space. This is acceptable, but be open to sprinkling some hashtags within the caption to give it dimension.
 
-[Home](./README.md)
-[Twitter Overview](./twitter-overview.md)
-[Instagram Overview](./instagram-overview.md)
-  [How to take photos for Instagram](./take-pics-for-insta.md)
-  [How to write captions for Instagram](./write-captions-for-insta.md)
-  [How the Instagram algorithm works](./algorithm-insta.md)
+- [Home](./README.md)
+- [Twitter Overview](./twitter-overview.md)
+- [Instagram Overview](./instagram-overview.md)
+  - [How to take photos for Instagram](./take-pics-for-insta.md)
+  - [How to write captions for Instagram](./write-captions-for-insta.md)
+  - [How the Instagram algorithm works](./algorithm-insta.md)

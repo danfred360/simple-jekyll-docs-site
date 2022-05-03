@@ -84,9 +84,9 @@ Inserting your brand into 5 relevant, topical conversations per month
 
 Depending on your niche, developing content pillars will help you determine the type of content you’ll create on Twitter.
 
-[Home](./README.md)
-[Twitter Overview](./twitter-overview.md)
-[Instagram Overview](./instagram-overview.md)
-  [How to take photos for Instagram](./take-pics-for-insta.md)
-  [How to write captions for Instagram](./write-captions-for-insta.md)
-  [How the Instagram algorithm works](./algorithm-insta.md)
+- [Home](./README.md)
+- [Twitter Overview](./twitter-overview.md)
+- [Instagram Overview](./instagram-overview.md)
+  - [How to take photos for Instagram](./take-pics-for-insta.md)
+  - [How to write captions for Instagram](./write-captions-for-insta.md)
+  - [How the Instagram algorithm works](./algorithm-insta.md)

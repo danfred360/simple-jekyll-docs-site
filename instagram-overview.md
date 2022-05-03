@@ -25,9 +25,9 @@ Discover page is where you are able to search for any related accounts, topics, 
 
 Reels are somewhat similar to the discover page however, you are not able to search for anything and all the content will only be videos. You are only able to scroll up and down however you can like the videos, go to the comment section and direct message said post to anyone of your followers. You are also able to go to the profile page of whoever has posted the reel. 
 
-[Home](./README.md)
-[Twitter Overview](./twitter-overview.md)
-[Instagram Overview](./instagram-overview.md)
-  [How to take photos for Instagram](./take-pics-for-insta.md)
-  [How to write captions for Instagram](./write-captions-for-insta.md)
-  [How the Instagram algorithm works](./algorithm-insta.md)
+- [Home](./README.md)
+- [Twitter Overview](./twitter-overview.md)
+- [Instagram Overview](./instagram-overview.md)
+  - [How to take photos for Instagram](./take-pics-for-insta.md)
+  - [How to write captions for Instagram](./write-captions-for-insta.md)
+  - [How the Instagram algorithm works](./algorithm-insta.md)

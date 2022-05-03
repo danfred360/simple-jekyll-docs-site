@@ -69,9 +69,9 @@ The most important signals for the Explore Page algorithm are:
 
 There have been rumors that the Instagram algorithm better serves certain accounts, with business accounts being favored. However, it can be officially put to rest as Instagram confirmed in a series of Stories on the @creators account, that all account types are treated equally when it comes to the algorithms.
 
-[Home](./README.md)
-[Twitter Overview](./twitter-overview.md)
-[Instagram Overview](./instagram-overview.md)
-  [How to take photos for Instagram](./take-pics-for-insta.md)
-  [How to write captions for Instagram](./write-captions-for-insta.md)
-  [How the Instagram algorithm works](./algorithm-insta.md)
+- [Home](./README.md)
+- [Twitter Overview](./twitter-overview.md)
+- [Instagram Overview](./instagram-overview.md)
+  - [How to take photos for Instagram](./take-pics-for-insta.md)
+  - [How to write captions for Instagram](./write-captions-for-insta.md)
+  - [How the Instagram algorithm works](./algorithm-insta.md)
