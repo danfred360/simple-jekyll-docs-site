@@ -1,11 +1,11 @@
 # How to run accounts on Instagram and Twitter
 ## Table of Contents
-[Home](./README.md)
-[Twitter Overview](./twitter-overview.md)
-[Instagram Overview](./instagram-overview.md)
-  [How to take photos for Instagram](./take-pics-for-insta.md)
-  [How to write captions for Instagram](./write-captions-for-insta.md)
-  [How the Instagram algorithm works](./algorithm-insta.md)
+- [Home](./README.md)
+- [Twitter Overview](./twitter-overview.md)
+- [Instagram Overview](./instagram-overview.md)
+  - [How to take photos for Instagram](./take-pics-for-insta.md)
+  - [How to write captions for Instagram](./write-captions-for-insta.md)
+  - [How the Instagram algorithm works](./algorithm-insta.md)
 
 ## Process For Collecting Content For The Instagram and Twitter Account.
 
