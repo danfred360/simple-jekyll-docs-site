@@ -57,7 +57,7 @@ Overall, the Explore page and the feed algorithm are quite similar. They both de
 
 The most important signals for the Explore Page algorithm are:
 
-​​- Information about the post. How popular is a post? How much engagement does it get and how quickly? If a lot of people are liking, commenting, sharing, and saving a post, it’s a huge indicator for the Explore Page’s algorithm.
+- Information about the post. How popular is a post? How much engagement does it get and how quickly? If a lot of people are liking, commenting, sharing, and saving a post, it’s a huge indicator for the Explore Page’s algorithm.
 
 - A user’s history of interacting with the person who posted. Has the user interacted with this person or their content in the past (even if not followed)?
 
