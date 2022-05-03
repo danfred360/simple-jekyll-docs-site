@@ -2,7 +2,7 @@
 
 
 
-	Instagram captions can be used to serve your brand more effectively to attract users to the brand. Effective captions can increase your website traffic, and help to get more Instagram followers. 
+Instagram captions can be used to serve your brand more effectively to attract users to the brand. Effective captions can increase your website traffic, and help to get more Instagram followers. 
 
 1. Write a good first sentence.
 Approximately only the first sentence will be seen in a user’s feed, so make sure it’s compelling or asks a question and don’t put your call to action at the end.

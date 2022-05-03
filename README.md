@@ -10,7 +10,7 @@
 ## Process For Collecting Content For The Instagram and Twitter Account.
 
 
-	There isn’t any set way or standard way to collect content for posts. This can be accomplished in a few easy ways:
+There isn’t any set way or standard way to collect content for posts. This can be accomplished in a few easy ways:
 
 - Have Students in the major/department follow the main Instagram account and send the content they have to a private message of the main account.
 
@@ -18,4 +18,4 @@
 
 ## Important Items To Consider.
 
-	Make sure the person submitting the content is aware that the content they are submitting is going to be posted on an Instagram account or the website. 
+Make sure the person submitting the content is aware that the content they are submitting is going to be posted on an Instagram account or the website. 

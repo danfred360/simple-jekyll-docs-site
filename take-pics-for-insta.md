@@ -4,7 +4,7 @@
 
 It’s not enough to post a few photos or videos, and wait for the audience to come rushing in. Instead, you have to build a content strategy just like you would for any other marketing campaign. The Instagram page should also look professional and well put together. To make an effective Instagram post there are a few things that should be done.
 
-	Why is taking good photos important for Instagram? Taking good, appealing photos using only your phone is the best way to stand out and build a strong presence on Instagram. 
+Why is taking good photos important for Instagram? Taking good, appealing photos using only your phone is the best way to stand out and build a strong presence on Instagram. 
 
 1. Use natural light.
 Avoid using the flash in favor of natural light, which creates photos that are richer and brighter. A flash can flatten out the photo and wash out the subject. If taking a picture outdoors is not an option,  take photos near windows or in well-lit rooms. Even at night, it’s preferable to find sources of ambient light, like street lamps and store windows.
