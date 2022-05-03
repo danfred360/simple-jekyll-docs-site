@@ -31,13 +31,13 @@ Based on this information, Instagram’s algorithm calculates how likely someone
 
 Engagement is very important, especially when it comes to the Instagram algorithm.  Instagram considers how likely a person is to comment, like, save, spend time, or tap on a profile. Keeping this in mind, as content and captions are planned ask these questions:
 
-Is this post likely to be liked or commented on?
+- Is this post likely to be liked or commented on?
 
-Is this a post someone would save and come back to?
+- Is this a post someone would save and come back to?
 
-Does this post include a CTA (for example, “Click the link in my bio”) that will prompt someone to tap on your profile?
+- Does this post include a CTA (for example, “Click the link in my bio”) that will prompt someone to tap on your profile?
 
-Creating content that will encourage this type of engagement can help you “hack” the Instagram algorithm for your benefit.
+- Creating content that will encourage this type of engagement can help you “hack” the Instagram algorithm for your benefit.
 
 ## How the Instagram Stories Algorithm Works.
 
